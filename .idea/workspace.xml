@@ -2,10 +2,28 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="471b1f03-5632-4662-acb6-8ada43800636" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/month-4.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework1" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/homework1/src/Button.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/homework1/src/Component.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/homework1/src/Footer.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/homework1/src/Header.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson1/.eslintrc.cjs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson1/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson1/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson1/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson1/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson1/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson1/public/vite.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson1/src/App.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson1/src/App.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson1/src/assets/react.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson1/src/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson1/src/main.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson1/vite.config.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/homework1/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/homework1/public/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/homework1/src/App.css" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/homework1/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/homework1/src/App.js" afterDir="false" />
@@ -64,7 +82,7 @@
       <workItem from="1702125687701" duration="116000" />
       <workItem from="1702125880261" duration="3887000" />
       <workItem from="1702447592900" duration="347000" />
-      <workItem from="1702449782392" duration="2669000" />
+      <workItem from="1702449782392" duration="2995000" />
     </task>
     <servers />
   </component>
