@@ -2,11 +2,24 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="471b1f03-5632-4662-acb6-8ada43800636" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/homework1/src/Button.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework1/src/Component.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework1/src/Footer.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework1/src/Header.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework1" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework1/src/components/Button.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework1/src/components/Component.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework1/src/components/Footer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework1/src/components/Header.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework1/src/header.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework3/src/components/button/Button.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework3/src/components/input/Input.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework3/src/components/list/List.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework3/src/components/modal/Modal.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework3/src/components/modal/modal.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework3/src/components/todo/Todo.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework3/src/components/todo/todo.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson3/src/components/list/List.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson3/src/components/todo/Todo.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson3/src/components/todo/todo.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework1" beforeDir="false" afterPath="$PROJECT_DIR$/homework1" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/homework1/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/homework1/public/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/homework1/src/App.css" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/homework1/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/homework1/src/App.js" afterDir="false" />
@@ -16,6 +29,7 @@
       <change beforePath="$PROJECT_DIR$/homework1/src/logo.svg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/homework1/src/reportWebVitals.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/homework1/src/setupTests.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework2/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/homework2/.idea/vcs.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,11 +40,13 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="JavaScript File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/homework1" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="SYNC" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -49,10 +65,16 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
     "last_opened_file_path": "C:/Geeks/month-4",
+    "list.type.of.created.stylesheet": "CSS",
     "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Geeks\month-4\homework1\src\components" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -65,7 +87,11 @@
       <workItem from="1702125687701" duration="116000" />
       <workItem from="1702125880261" duration="3887000" />
       <workItem from="1702447592900" duration="347000" />
-      <workItem from="1702449782392" duration="3472000" />
+      <workItem from="1702449782392" duration="3885000" />
+      <workItem from="1702469165856" duration="327000" />
+      <workItem from="1702471347284" duration="2354000" />
+      <workItem from="1702647205257" duration="950000" />
+      <workItem from="1703185254228" duration="1853000" />
     </task>
     <servers />
   </component>
