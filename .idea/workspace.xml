@@ -7,17 +7,17 @@
       <change afterPath="$PROJECT_DIR$/homework1/src/components/Footer.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/homework1/src/components/Header.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/homework1/src/header.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework3/src/components/button/Button.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework3/src/components/input/Input.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework3/src/components/list/List.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework3/src/components/modal/Modal.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework3/src/components/modal/modal.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework3/src/components/todo/Todo.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework3/src/components/todo/todo.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson3/src/components/list/List.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson3/src/components/todo/Todo.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson3/src/components/todo/todo.module.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework4/src/components/input/Input.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework4/src/components/input/input.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework4/src/components/list/List.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework4/src/components/modal/Modal.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework4/src/components/modal/modal.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework4/src/components/todo/Todo.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework4/src/components/todo/todo.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework5/src/componeents/addTodo.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson5/src/componeents/AddTodo.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson5/src/componeents/Massiv.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson5/src/componeents/TaskList.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/homework1" beforeDir="false" afterPath="$PROJECT_DIR$/homework1" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/homework1/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/homework1/public/index.html" afterDir="false" />
@@ -64,13 +64,17 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Geeks/month-4",
+    "last_opened_file_path": "C:/Geeks/project_after_month3",
     "list.type.of.created.stylesheet": "CSS",
     "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Geeks\month-4\homework4\src\components" />
+      <recent name="C:\Geeks\month-4\lesson3\src\components" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Geeks\month-4\homework1\src\components" />
     </key>
@@ -91,7 +95,9 @@
       <workItem from="1702469165856" duration="327000" />
       <workItem from="1702471347284" duration="2354000" />
       <workItem from="1702647205257" duration="950000" />
-      <workItem from="1703185254228" duration="1853000" />
+      <workItem from="1703185254228" duration="2632000" />
+      <workItem from="1703308608000" duration="5433000" />
+      <workItem from="1703325835482" duration="18255000" />
     </task>
     <servers />
   </component>
