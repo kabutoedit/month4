@@ -19,8 +19,6 @@
       <change beforePath="$PROJECT_DIR$/homework1/src/reportWebVitals.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/homework1/src/setupTests.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/homework2/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/homework2/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework5/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/homework5/src/App.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson5/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/lesson5/src/index.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -91,7 +89,9 @@
       <workItem from="1703325835482" duration="18761000" />
       <workItem from="1703671868406" duration="5484000" />
       <workItem from="1703863432365" duration="3360000" />
-      <workItem from="1703920574437" duration="2838000" />
+      <workItem from="1703920574437" duration="2999000" />
+      <workItem from="1703932352786" duration="1322000" />
+      <workItem from="1704263278080" duration="2264000" />
     </task>
     <servers />
   </component>
